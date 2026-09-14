@@ -1,6 +1,6 @@
 # AI Utility Assistant
 
-A full-stack AI utility application built with **FastAPI**, **React**, **TypeScript**, and **Gemini**. The project was built as a practical GenAI learning project, focusing on integrating LLM capabilities into a real web application.
+A full-stack AI utility application built with **FastAPI**, **React**, **TypeScript**, and **Gemini**. 
 
 ## Features
 
